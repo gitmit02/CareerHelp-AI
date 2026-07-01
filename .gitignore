@@ -1,0 +1,16 @@
+# Environment files 
+.env
+agents/.env
+mcp_server/.env
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

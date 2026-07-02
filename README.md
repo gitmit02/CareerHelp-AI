@@ -2,6 +2,12 @@
 
 CareerHelp AI is an AI-powered career navigation web application designed to help users identify optimal technology career paths matching their skills and interests, analyze gaps, recommend certifications/learning resources, and outline a structured, phase-by-phase roadmap.
 
+<img width="1918" height="898" alt="image" src="https://github.com/user-attachments/assets/80d8eeac-e2a4-4061-99bc-0ff3d5a5e6da" />
+
+
+[**Live Link** ](https://careerhelp-ai-production.up.railway.app/ )
+
+
 ---
 
 ## Tech Stack
